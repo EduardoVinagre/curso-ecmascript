@@ -14,5 +14,6 @@
     "platzi"
   ],
   "author": "Eduardo Vinagre <eduardovinagre@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
